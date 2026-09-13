@@ -1,35 +1,45 @@
-# Hi, I’m Maisha Rahman 👋
+# Maisha Rahman
 
-💻 **CSE & Data Science Major | Tech Enthusiast | AI & Web Developer | Designer**
+Sole in-house developer for **Armani Group**, through its tech arm **CellsTech**. I work from group headquarters as the only engineer on the group's software, carrying each system end to end: requirement analysis, system design, UI/UX, frontend, backend, unit testing, and release. Seven platforms in production so far.
 
-I’m passionate about **Machine Learning, Deep Learning, Generative AI, Web Development, and Creative Design**. I enjoy **turning ideas into projects**, exploring new technologies, and applying my skills through **research, club activities, hackathons, and hands-on experience**.
+Before this I was a software engineer at **Inkphase**, across SaaS, CRM, e-commerce, and a high-traffic news platform.
 
-✨ **Strengths:** Problem-solving | Collaboration | Adaptability | Leadership
+Alongside the industry work I do computer vision research. My hybrid Vision Transformer for kidney segmentation was accepted at **IEEE ICCIT 2025**.
 
-🚀 **Currently Learning & Exploring:**  
-- **C#, .NET, MERN stack, and OCI** ☁️  
-- **AI, Generative AI, and Deep Learning projects** 🤖  
-- Hands-on **Java, C++, web development, IoT, and design projects**  
+### Research
 
-📚 **Research & Publications:**  
-- Working on **research publications in Deep Learning and Medical Image Processing** 🧠🩺  
+**[MAE-ViT: Hybrid SSL Vision Transformer for Kidney Segmentation](https://doi.org/10.1109/ICCIT68739.2025.11491313)** · IEEE ICCIT 2025
+Masked autoencoder plus ViT for medical image segmentation where labeled data is scarce. Outperformed CNN baselines in low-data experiments.
 
-🛠 **Tech Stack & Tools:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**[EDIBLESEED Dataset](https://doi.org/10.17632/9xgk2vc3sv.2)** · Mendeley Data
+Public image dataset for edible seed classification and computer vision research.
+
+### Projects worth a look
+
+**HealthSync** · AI healthcare platform doing real-time kidney stone detection, with explainable AI heatmaps through Grad-CAM++. 98.6% accuracy on 10k+ self-curated samples. *Code releases after publication.*
+
+**[Multilingual RAG pipeline](https://github.com/RahMaisha/vector-embedded-chatbot)** · Ingests websites and PDFs in Bangla or English, with automatic Tesseract OCR fallback for scanned documents.
+
+**[DevJourney](https://github.com/RahMaisha/DevJourney)** · Dev progress tracker in vanilla HTML, CSS and JS. No framework, no bundler, no build step.
+
+### Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 
-📂 **Projects & Experience (Highlights):**  
-- Built a **line-following robot** 🤖  
-- Participated in a **SheTech business-tech hackathon** 💡  
-- Hands-on **team projects, coding challenges, and open-source contributions**  
+### Hackathons
 
-📬 **Let’s connect & collaborate on innovative tech solutions!**
+AWS Cloud Camp BD, CrackerJack 2.0, and Robofest. At Cloud Camp I built the Bangla-capable AI assistant for a bilingual maternity care platform, grounded on WHO and US national health sources.
+
+### Contact
+
+[maisharahman01x@gmail.com](mailto:maisharahman01x@gmail.com) · [LinkedIn](https://linkedin.com/in/maisha-rahman-01x) · [Portfolio](https://maisha-portfolio-nine.vercel.app)
