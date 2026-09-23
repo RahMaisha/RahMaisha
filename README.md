@@ -1,6 +1,6 @@
 # Maisha Rahman
 
-Software developer for **Armani Group**, through its tech arm **CellsTech**. I work from group headquarters as the only engineer on the group's software, carrying each system end to end: requirement analysis, system design, UI/UX, frontend, backend, unit testing, and release. Seven platforms in production so far.
+Software developer for **Armani Group**, through its tech arm **CellsTech**. I work from group headquarters as the sole junior engineer on the group's software, carrying each system end to end: requirement analysis, system design, UI/UX, frontend, backend, unit testing, and release. Seven platforms in production so far.
 
 Before this I was a software engineer at **Inkphase**, across SaaS, CRM, e-commerce, and a high-traffic news platform.
 
